@@ -3,7 +3,7 @@ Keylogger with C and win32 API
 
 ## Description:
 
--The keylogger uses C and employs hooks, win32 API and offset obfuscation. 
+-The keylogger uses C and employs hooks, win32 API, offset obfuscation and dynamic DLL loading. 
 
 -It logs keystrokes entered by the victim for a certain amount of keystrokes, that you specify, to a log file and sends the file to an ftp server.
 
